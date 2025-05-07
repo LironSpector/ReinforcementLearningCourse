@@ -1,0 +1,9 @@
+# IntelliJ / PyCharm settings
+.idea/
+
+# DQN training checkpoints / temp files
+**/*.h5f_temp/
+
+# Training artifacts
+**/checkpoint/
+**/weights/
